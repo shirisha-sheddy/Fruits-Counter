@@ -1,0 +1,58 @@
+/* Write your CSS here */
+
+.bg-container {
+  background-color: #ffd569;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-container {
+  background-color: #ffffff;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+}
+
+.heading {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.image {
+  width: 100px;
+  height: 100px;
+}
+
+.btn {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 12px;
+  background-color: #007bff;
+  border-width: 0px;
+  border-radius: 4px;
+  width: 80px;
+  height: 30px;
+  margin-top: 20px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+
+.fruits-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.count-element {
+  color: #ffd569;
+}
